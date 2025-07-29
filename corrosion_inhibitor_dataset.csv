@@ -1,0 +1,7 @@
+Inhibitor,Source,Concentration (mg/L or ppm),Temperature (°C),Exposure Time (h),Medium,Inhibition Efficiency (%),Notes
+M. cerviana extract,Natural extract,25–1000,25,72,1 M HCl,75.1–92.6,Efficiency rises with concentration and time
+Khella seed extract,Methanol extract,200–1000,30,6,1 M HCl,56–83,IE increases with concentration; max at 1 g/L
+2-MBI,Synthetic organic,10–150,30–70,55,1 M HCl,up to 90,Plateaus at ~150 ppm; IE declines with temp rise
+PMBH,Organic compound,100–500,30–60,N/A,1 M HCl,up to 97,"IE increases with conc, decreases modestly with temp"
+LF1,Benzimidazole derivative,1000,30–60,N/A,1 M HCl,88 → 68,High IE at 303 K; declines at 333 K
+LF2,Benzimidazole derivative,1000,30–60,N/A,1 M HCl,95 → 71,High IE at 303 K; declines at 333 K

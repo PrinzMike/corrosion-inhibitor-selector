@@ -85,11 +85,12 @@ Machine Learning & Chemical Engineering Enthusiast
 GitHub: @PrinzMike
 
 Future Work
-Add a Streamlit dashboard
+
 
 Expand dataset with more literature entries
 
 Enable model export to ONNX or TensorFlow Lite for deployment
 
 License
+
 This project is open-source and free to use under the MIT License.
